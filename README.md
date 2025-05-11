@@ -4,6 +4,12 @@ An animated chat input bar built with React Native, Expo, and `react-native-rean
 ## Demo
 ![0509](https://github.com/user-attachments/assets/85690dca-7c5f-4ea6-8bbb-2df730b98583)
 
+
+https://github.com/user-attachments/assets/916b86c5-6f8b-40dc-a2ec-c4adb1b4b082
+
+
+
+
 ## Tech Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
